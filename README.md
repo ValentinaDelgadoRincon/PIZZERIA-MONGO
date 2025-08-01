@@ -76,15 +76,13 @@ La **pizzería** necesita un sistema para gestionar:
 }
 ```
 
- #### pizza personalizada
+ #### Cliente 115
 ```json
 {
-  "nombre": "Personaliza el antojo",
-  "precio": 56.900,
-  "combo": "pizza familiar champiñones + 5 gaseosas",
-  "ingredientes": ["champiñones", "queso", "base tomate", "salchicha", "jamon"],
-  "adicionales": ["gaseosas  postobon","salsas"],
-  "personalizado":["Intercambio de ingredientes", "quitar ingredientes","elección sabores","cantidad de cierto ingrediente"]
+  "nombre": "Juan Mariño",
+  "dirección": "calle 6 #6-66",
+  "pedido": 120,
+  "telefono": "3112906542"
 }
 ```
 ## 📌 Reflexión 
